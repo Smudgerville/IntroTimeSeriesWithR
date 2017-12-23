@@ -7,7 +7,7 @@ author:  Richard M. Smith
 
 ## Description
 
-Datasets, R scripts, errata, and solutions) associated with the book:
+Datasets, R scripts, errata, and solutions associated with the book:
 
 Introductory Time Series with R
 by Paul S.P. Cowpertwait and  Andrew V. Metcalfe
